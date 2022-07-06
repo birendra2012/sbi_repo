@@ -1,0 +1,34 @@
+task 101 stage 1 - stage 5
+
+stages {
+     
+	  stage-1{
+	 
+	 // logics
+	 
+	 }
+	 
+	  stage-2{
+	 
+	 // logics
+	 
+	 }
+	 
+	  stage-3{
+	 
+	 // logics
+	 
+	 }
+	 
+	 stage-4{
+	 
+	 // logics
+	 
+	 }
+	 
+	 stage-5{
+	 
+	 // logics
+	 
+	 }
+}
